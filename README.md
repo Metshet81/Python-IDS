@@ -1,4 +1,4 @@
-# Python-IDS
+ Python-IDS
 A Python-based Intrusion Detection System that monitors network activity and detects suspicious behavior.
 Intrusion Detection Tool (IDS)
 
@@ -21,11 +21,11 @@ Install scapy
 Clone the project
               git clone https://github.com/Metshet81/Python-IDS.git
              cd Python-IDS
-#Usage
+Usage
 
 Run the detector script to start capturing packets:
                      sudo python3 detector.py
-#How It Works
+How It Works
 
 The tool uses Scapy to sniff incoming packets.
 
