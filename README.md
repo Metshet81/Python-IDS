@@ -7,8 +7,11 @@ A simple Python-based Intrusion Detection Tool built with Scapy. It monitors net
 Features
 
 ✅ Real-time packet sniffing
+
 ✅ Detects SYN flood attempts
+
 ✅ Detects ICMP (ping) floods
+
 ✅ Lightweight and beginner-friendly
 
 Installation
