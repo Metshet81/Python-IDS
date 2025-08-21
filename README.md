@@ -9,7 +9,6 @@ Features
 ✅ Real-time packet sniffing
 ✅ Detects SYN flood attempts
 ✅ Detects ICMP (ping) floods
-✅ Easy to configure threshold values
 ✅ Lightweight and beginner-friendly
 
 Installation
