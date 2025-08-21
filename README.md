@@ -33,7 +33,7 @@ It tracks TCP SYN packets (possible SYN flood) and ICMP packets (possible ping f
 
 If the number of packets exceeds a threshold (e.g., >25 packets in 10 seconds), it raises an alert.
 
-#Example Output
+Example Output
 ALERT:Possible SYN flood Detected!
 ALERT:Possible SYN flood Detected!.....
 
